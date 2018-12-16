@@ -87,7 +87,7 @@ const chatHTML = `<main class="flex flex-column">
 const addUser = user => {
   // Add the user to the list
   $('.user-list').append(`<li>
-    <a class="flex relative" href="#">
+    <a class="flex relative no-select" href="#">
       <img src="${user.avatar}" alt="" class="avatar">
       <div class="flex flex-column">
         <span>${user.email}</span>
