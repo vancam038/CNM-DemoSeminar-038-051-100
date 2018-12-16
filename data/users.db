@@ -1,0 +1,3 @@
+{"email":"tearsoftherain.rainlover@gmail.com","password":"$2a$13$vxmYG5wkLJXC7QJ6oAHGhOS9Npj9o4N78xMvMn7jqnqW9xJ0QLIFK","role":"member","avatar":"https://s.gravatar.com/avatar/795af192dee6e90aae6c1b796f58e796?s=60","_id":"QTWbtbeUcg4oDosE"}
+{"email":"songvancam@gmail.com","password":"$2a$13$EKDHQzq1NiHCndF/so5yP.8jieGYVtDDtZIl0WsNT86II85vIbHL.","role":"admin","avatar":"https://s.gravatar.com/avatar/7d706904727366e0a6c1261e3d41483f?s=60","_id":"c6UOwSsOzaTpAwrl"}
+{"$$indexCreated":{"fieldName":"email","unique":true,"sparse":false}}
