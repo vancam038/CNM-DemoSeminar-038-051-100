@@ -187,6 +187,13 @@ const login = async credentials => {
     // If successful, show the chat page
     console.log(currentUser.role);
 
+    // Testing purpose
+    // client.service('users').find({
+    //   query: {
+    //     email: 'songvancam@gmail.com'
+    //   }
+    // }).then(messages => console.log(messages));
+
     showChat(currentUser);
   } catch (error) {
     // If we got an error, show the login page
